@@ -20,7 +20,7 @@ class Varasto:
         return self.tilavuus - self.saldo
 
     def lisaa_varastoon(self, maara):
-        a = 1
+        #a = 1
         #b = 2
         #c = 3
         #d = 4
