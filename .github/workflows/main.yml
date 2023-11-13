@@ -29,4 +29,4 @@ jobs:
       - name: Add pylint
         run: poetry add pylint
       - name: Run pylint
-        run: potry run pylint src
+        run: poetry run pylint src
